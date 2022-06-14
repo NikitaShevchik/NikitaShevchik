@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikitaShevchik
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript / JS Framoworks / Node.js
 - 📫 How to reach me: shevchik.nikita@gmail.com
 
 <!---
