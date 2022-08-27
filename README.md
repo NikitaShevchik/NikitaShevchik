@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikitaShevchik
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me: shevchik.nikita@gmail.com
 
 <!---
