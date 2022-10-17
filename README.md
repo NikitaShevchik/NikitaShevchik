@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikitaShevchik
-- 👀 I’m interested in Frontend
+- 👀 I’m interested in Frontend and Fullstack
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: shevchik.nikita@gmail.com
 
