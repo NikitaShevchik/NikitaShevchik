@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikitaShevchik
-- 👀 I’m interested in Frontend and Full stack
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in Full stack
+- 🌱 I’m currently learning React, Next.js
 - 📫 How to reach me: shevchik.nikita@gmail.com
 - 🔗 My Linkedin profile: https://www.linkedin.com/in/nikita-shevchik-74133422a/
 
