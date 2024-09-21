@@ -24,4 +24,4 @@ When I'm not coding, you can find me:
 > _"It is better to be sure of a good result than to hope for a great one."_  
 > — This drives my approach to work and life.
 
-![Dino](https://media.giphy.com/media/l0HlQ7LRal6J3Aq7e/giphy.gif)
+![Dino](https://media.giphy.com/media/hxBPkhblVWPgsjSm07/giphy.gif?cid=ecf05e47cs80tyfhueegk90qehva1r9lqb19fk4bp5k34cu8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
