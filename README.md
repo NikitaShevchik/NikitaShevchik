@@ -23,5 +23,3 @@ When I'm not coding, you can find me:
 
 > _"It is better to be sure of a good result than to hope for a great one."_  
 > — This drives my approach to work and life.
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5rNnViZTcydW9heW1kZzhvM3o0ZTkxc2NwanVpZjRmbHByb21iaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LSKVlAGSnuXxVdp5wN/giphy.gif" width="200px" alt="Dino"/>
