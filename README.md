@@ -10,7 +10,7 @@
 - **Telegram Mini Apps**: Building lightweight, highly functional applications for Telegram.
 - **API Integrations**: Connecting the dots between services and creating seamless interactions.
 
-
+---
 
 When I'm not coding, you can find me:
 - ♟️ Playing chess and strategizing both in life and on the board.
