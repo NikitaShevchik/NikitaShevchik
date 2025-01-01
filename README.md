@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Nikita Shevchik
 
-**Full-stack Developer | Web3 | TypeScript & Node.js**
+**Full-stack Developer | Web3 | TypeScript and Node.js**
 
 🌍 I specialize in:
 - **Web3 Development**: Building decentralized applications and working with blockchain technology.
