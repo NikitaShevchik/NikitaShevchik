@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nikita Shevchik
+# Hi! 👋 I'm Nikita Shevchik
 
 **Full-stack Developer | Web3 | TypeScript & Node.js**
 
