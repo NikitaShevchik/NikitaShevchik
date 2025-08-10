@@ -2,7 +2,7 @@
 
 **Full-stack Developer | Web3 | TypeScript and Node.js**
 
-🌍 I specialize in:
+🌍 I specialize:
 - **Web3 Development**: Building decentralized applications and working with blockchain technology.
 - **TypeScript & JavaScript**: Mastering scalable and maintainable code.
 - **Node.js & Express**: Developing fast and secure backends.
