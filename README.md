@@ -11,10 +11,6 @@
 
 ---
 
-When I'm not coding, you can find me:
-- ♟️ Playing chess and strategizing both in life and on the board.
-- 🏂 Snowboarding down the slopes, seeking the thrill of speed and skill.
-
 📫 **How to reach me:**
 - **Email**: [shevchik.nikita@gmail.com](mailto:shevchik.nikita@gmail.com)
 
