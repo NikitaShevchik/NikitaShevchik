@@ -7,7 +7,6 @@
 - **TypeScript & JavaScript**: Mastering scalable and maintainable code.
 - **Node.js & Express**: Developing fast and secure backends.
 - **React**: Crafting interactive and dynamic user experiences.
-- **Telegram Mini Apps**: Building lightweight, highly functional applications for Telegram.
 
 ---
 
