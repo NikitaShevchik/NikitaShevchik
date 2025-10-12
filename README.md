@@ -7,7 +7,6 @@
 - **TypeScript & JavaScript**: Mastering scalable and maintainable code.
 - **Node.js & Express**: Developing fast and secure backends.
 - **React**: Crafting interactive and dynamic user experiences.
-
 ---
 
 📫 **How to reach me:**
